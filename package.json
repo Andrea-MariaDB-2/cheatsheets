@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Rico Sta. Cruz <rstacruz@users.noreply.github.com>",
   "dependencies": {
-    "autoprefixer": "^9.8.2",
+    "autoprefixer": "^9.8.6",
     "dom101": "^2.2.1",
     "hint.css": "^2.6.0",
     "isotope-layout": "^3.0.6",
