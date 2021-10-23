@@ -6,7 +6,7 @@
   "dependencies": {
     "autoprefixer": "^9.8.2",
     "dom101": "^2.2.1",
-    "hint.css": "^2.6.0",
+    "hint.css": "^2.7.0",
     "isotope-layout": "^3.0.6",
     "lodash.noop": "^3.0.1",
     "modularscale-sass": "^3.0.10",
